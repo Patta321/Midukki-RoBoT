@@ -136,7 +136,9 @@ How To Deploy 👉
 </a>
 </p>
 </details>
-
+<a href="https://render.com/deploy?repo=https://github.com/PR0FESS0R-99/Midukki-RoBoT">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
 ### Repo Status
 
 <h1>
